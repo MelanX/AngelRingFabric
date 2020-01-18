@@ -1,0 +1,10 @@
+{
+  "item.angelring.angelring": "Angel Ring",
+  "item.angelring.unstable_ingot": "Unstable Ingot",
+
+  "angelring:text.remaining": "%ss left",
+  "angelring:text.default0": "Be aware of crafting this.",
+  "angelring:text.default1": "It is highly \u00A7lunstable\u00A7r.",
+  "angelring:text.default2": "Be sure to be ready for your crafting recipe,",
+  "angelring:text.default3": "you only have \u00A7l\u00A7c10s until this ingot explodes\u00A7r."
+}

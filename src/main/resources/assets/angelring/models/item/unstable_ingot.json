@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "angelring:item/unstable_ingot_test"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "danger": 0
+      },
+      "model": "angelring:item/unstable_ingot_safe"
+    },
+    {
+      "predicate": {
+        "danger": 1
+      },
+      "model": "angelring:item/unstable_ingot_danger"
+    }
+  ]
+}

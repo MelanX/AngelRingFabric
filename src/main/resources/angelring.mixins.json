@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "de.melanx.angelring.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ServerPlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

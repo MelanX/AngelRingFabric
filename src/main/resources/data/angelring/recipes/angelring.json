@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "EGE",
+    "GNG",
+    "IGI"
+  ],
+  "key": {
+    "I": {
+      "item": "angelring:unstable_ingot"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "angelring:angelring"
+  }
+}
